@@ -1,0 +1,114 @@
+* {
+    margin: 0%;
+}
+
+.image-piz{
+    width: 100%;
+}
+
+.carousel-indicators li{
+background-color: black;
+width:10px;
+height: 10px;
+border-radius:100px;
+border-bottom: 0;
+border-top: 0;
+} 
+
+.carousel-indicators{
+    position: relative;
+    margin-bottom: 0;
+    margin-top:15px;
+}
+
+.card{
+    min-height: 370px;
+}
+
+.text {
+    font-family: 'Cabin', sans-serif;
+    font-weight: 600px;
+    font-size: 2em;       
+}
+
+.subt {
+    font-family: 'Cabin', sans-serif;
+    font-weight: 600;
+    font-size: 2em;
+    color: white;
+}
+
+.subit2 {
+    font-family: 'Cabin', sans-serif;
+    font-size: 20px;
+    color: white;
+    line-height:1.2;
+    
+}
+
+.subit3 {
+    font-family: 'Lobster', cursive;
+    font-size: 24px;
+    color: white;
+    font-weight: 100;
+}
+
+.text2 {
+    font-family: 'Cabin', sans-serif;
+    font-weight: 600;
+    font-size: 2em;
+    
+}
+
+.card-title {
+    font-weight: 600px;
+    font-size: 20px;
+    font-family: 'Cabin', sans-serif;
+} 
+
+.linea {
+   width: 100%;
+   margin-top: 17px;
+   color: black;
+   background: black;
+   margin-left: 2px;
+}
+
+p {
+    font-family: 'Cabin', sans-serif;
+    font-size: 1em;
+    line-height:2em;
+    font-weight: normal;
+}
+
+h6 {
+    font-family: 'Cabin', sans-serif;
+    font-size: 1em;
+    line-height:2em;
+    font-weight: normal;
+}
+
+.titulo {
+    text-decoration: underline;
+    font-weight: 100px;
+}
+
+.btn {
+    font-family: 'Cabin', sans-serif;
+    font-size: 14px !important;
+    font-weight:regular;
+}
+
+.bgrojo {
+    background-color: #dc3545;
+    padding-bottom: 8px;
+}
+
+.navbar-brand , .newsletter , .footer{
+    font-family: 'Lobster' , sans-serif;
+}
+
+footer {
+    background-color: #373a3c;
+    padding-bottom: 2em;
+}
